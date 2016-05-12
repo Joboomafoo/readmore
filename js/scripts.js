@@ -1,2 +1,0 @@
-// My Scripts
-$('p').readmore();
